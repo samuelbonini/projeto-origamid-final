@@ -10,6 +10,8 @@
 /*home*/
 
 @Import "./home/introducao.css";
+@Import "./home/tecnologia.css";
+
 
 /* bicicletas */ 
 
