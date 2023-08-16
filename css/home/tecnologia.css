@@ -53,6 +53,7 @@ margin-bottom: 8px;
 
   .tecnologia-bg {
     box-shadow: initial;
+  }
   .tecnologia {
     grid-template-columns: 1fr;
   }
@@ -69,8 +70,9 @@ margin-bottom: 8px;
   }
 }
 
+
 @media (max-width: 600px) {
-.tecnologia-vantagens {
-  flex-direction: column;
-}
+  .tecnologia-vantagens {
+    flex-direction: column;
+  }
 }
