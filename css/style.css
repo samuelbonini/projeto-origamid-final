@@ -11,6 +11,9 @@
 
 @Import "./home/introducao.css";
 @Import "./home/tecnologia.css";
+@import "./home/parceiros.css";
+@import "./home/depoimento.css";
+
 
 
 /* bicicletas */ 
